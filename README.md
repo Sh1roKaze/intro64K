@@ -1,6 +1,8 @@
 # intro64K - Graphics Intro 64kB Using OpenGL
 My Bachelor's Thesis
 
+Link: http://www.fit.vutbr.cz/study/DP/BP.php.en?id=21173
+
 Keywords
 graphic intro, 64kB, C++, OpenGL, GLSL, Phong lighting model, procedural generation Perlin noise, L-system, MIDI
 Abstract
